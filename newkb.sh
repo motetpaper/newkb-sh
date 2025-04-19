@@ -10,8 +10,8 @@
 ##
 
 if [[ -z $(command -v kbdate) ]]; then
-  echo "You need 'kbdate' to run 'newkb'"
-  echo "Learn more: https://motetpaper.github.com/KB1234"
+  echo "You need KBDATE to run NEWKB"
+  echo "Learn more: https://motetpaper.github.io/support/KB250419620"
   exit
 fi
 
